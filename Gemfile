@@ -30,7 +30,7 @@ gem 'jquery-rails'
 group :development do
   gem 'better_errors'
   gem 'rails_layout'
-  #gem 'sqlite3'
+  gem 'sqlite3'
 end
 group :production do
   gem 'pg'
